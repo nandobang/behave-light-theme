@@ -5,24 +5,24 @@
     <key>comment</key>
     <string>http://cbp.io</string>
     <key>name</key>
-    <string>Behave</string>
+    <string>Behave Light</string>
     <key>settings</key>
     <array>
         <dict>
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#2C333D</string>
+                <string>#f9f9f9</string>
                 <key>caret</key>
                 <string>#909FB5</string>
                 <key>foreground</key>
-                <string>#D2D8E1</string>
+                <string>#6f7f8f</string>
                 <key>invisibles</key>
                 <string>#434D5B</string>
                 <key>lineHighlight</key>
-                <string>#232932</string>
+                <string>#e6eef6</string>
                 <key>selection</key>
-                <string>#434D5B</string>
+                <string>#e6eef6</string>
             </dict>
         </dict>
         <dict>
@@ -83,7 +83,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#f0d879</string>
+                <string>#e0c869</string>
             </dict>
         </dict>
         <dict>
@@ -166,7 +166,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#f0d879</string>
+                <string>#e0c869</string>
             </dict>
         </dict>
         <dict>
@@ -274,7 +274,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#f0d879</string>
+                <string>#e0c869</string>
             </dict>
         </dict>
         <dict>
@@ -449,6 +449,6 @@
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>semanticClass</key>
-    <string>theme.dark.behave</string>
+    <string>theme.dark.behave-light</string>
 </dict>
 </plist>
